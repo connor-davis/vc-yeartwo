@@ -2,14 +2,22 @@
 	"nodes":[
 		{"type":"text","text":"Brain","id":"8eb695c6cb52abe8","x":-100,"y":-140,"width":240,"height":60},
 		{"type":"text","text":"Cloud Development","id":"d4aeae526c33afc0","x":340,"y":-140,"width":240,"height":60},
-		{"id":"a22077059984eafd","x":-100,"y":120,"width":240,"height":60,"type":"text","text":"Programming (C#)"},
-		{"id":"6950967e128042ab","x":-102,"y":-400,"width":242,"height":60,"type":"text","text":"Databases"},
-		{"type":"text","text":"Systems Analysis and Design","id":"56ae44ab70015a80","x":-540,"y":-140,"width":240,"height":60}
+		{"type":"text","text":"Programming (C#)","id":"a22077059984eafd","x":-100,"y":120,"width":240,"height":60},
+		{"type":"text","text":"Databases","id":"6950967e128042ab","x":-102,"y":-400,"width":242,"height":60},
+		{"type":"text","text":"Systems Analysis and Design","id":"56ae44ab70015a80","x":-540,"y":-140,"width":240,"height":60},
+		{"id":"b48ab75022a59948","x":-1020,"y":-310,"width":400,"height":400,"type":"file","file":"Systems Analysis and Design/Index.md"},
+		{"id":"6fff3eaa8586542b","x":-180,"y":260,"width":400,"height":400,"type":"file","file":"Programming/Index.md"},
+		{"id":"4a96b3c102f58587","x":660,"y":-310,"width":400,"height":400,"type":"file","file":"Cloud Development/Index.md"},
+		{"id":"b6e1e296cbbdac9b","x":-181,"y":-880,"width":400,"height":400,"type":"file","file":"Databases/Index.md"}
 	],
 	"edges":[
 		{"id":"33b06d3bff6a1026","fromNode":"8eb695c6cb52abe8","fromSide":"right","toNode":"d4aeae526c33afc0","toSide":"left"},
 		{"id":"2162658d08260300","fromNode":"8eb695c6cb52abe8","fromSide":"bottom","toNode":"a22077059984eafd","toSide":"top"},
 		{"id":"d0278e3ee04061f4","fromNode":"8eb695c6cb52abe8","fromSide":"top","toNode":"6950967e128042ab","toSide":"bottom"},
-		{"id":"a43d119267eea8c5","fromNode":"8eb695c6cb52abe8","fromSide":"left","toNode":"56ae44ab70015a80","toSide":"right"}
+		{"id":"a43d119267eea8c5","fromNode":"8eb695c6cb52abe8","fromSide":"left","toNode":"56ae44ab70015a80","toSide":"right"},
+		{"id":"f337982386b161e7","fromNode":"56ae44ab70015a80","fromSide":"left","toNode":"b48ab75022a59948","toSide":"right"},
+		{"id":"61841901676b8c76","fromNode":"a22077059984eafd","fromSide":"bottom","toNode":"6fff3eaa8586542b","toSide":"top"},
+		{"id":"3dc48dfc716a3cfa","fromNode":"d4aeae526c33afc0","fromSide":"right","toNode":"4a96b3c102f58587","toSide":"left"},
+		{"id":"ae7b0dd21faf4fbd","fromNode":"6950967e128042ab","fromSide":"top","toNode":"b6e1e296cbbdac9b","toSide":"bottom"}
 	]
 }

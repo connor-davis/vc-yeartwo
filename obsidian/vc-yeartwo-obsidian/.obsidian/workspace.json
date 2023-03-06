@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d144780ba6ecd751",
+        "id": "033a11e4b5947e4b",
         "type": "tabs",
         "children": [
           {
-            "id": "5aa12c2372e3ce0b",
+            "id": "40715bb7bb358a33",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Brain.canvas",
                 "viewState": {
-                  "x": 203,
-                  "y": 56,
-                  "zoom": -0.3333333333333333
+                  "x": 320.8009325042068,
+                  "y": 2.282174591151829,
+                  "zoom": -1
                 }
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -149,8 +151,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aa12c2372e3ce0b",
+  "active": "40715bb7bb358a33",
   "lastOpenFiles": [
-    "Brain.canvas"
+    "Brain.md",
+    "Cloud Development/Index.md",
+    "Databases/Index.md",
+    "Programming/Index.md",
+    "Systems Analysis and Design/Index.md",
+    "Brain.canvas",
+    "Systems Analysis and Design",
+    "Databases",
+    "Cloud Development",
+    "Programming"
   ]
 }
