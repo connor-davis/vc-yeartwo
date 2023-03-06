@@ -16,15 +16,62 @@
               "state": {
                 "file": "Brain.canvas",
                 "viewState": {
-                  "x": 320.8009325042068,
-                  "y": 2.282174591151829,
-                  "zoom": -1
+                  "x": 19,
+                  "y": -680,
+                  "zoom": 0
                 }
               },
               "pinned": true
             }
+          },
+          {
+            "id": "72da19efd9f477c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "4ea27c70eae2c862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Theme 1/Categories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0f5a39c68bd1311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Theme 1/Theme 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2edccd5debc7fe56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databases/Theme 1/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brain.canvas",
+                "file": "Databases/Theme 1/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brain.canvas",
+                "file": "Databases/Theme 1/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brain.canvas"
+                "file": "Databases/Theme 1/Untitled.md"
               }
             }
           }
@@ -151,14 +198,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40715bb7bb358a33",
+  "active": "2edccd5debc7fe56",
   "lastOpenFiles": [
+    "Databases/Theme 1/Theme 1.md",
+    "Databases/Theme 1/Untitled.md",
+    "Databases/Theme 1/3 Vs of Big Data.md",
+    "Databases/Theme 1/Categories.md",
+    "Brain.canvas",
+    "Databases/Theme 1/What Is A DBMS.md",
+    "Programming/Index.md",
+    "Databases/Theme 1",
     "Brain.md",
     "Cloud Development/Index.md",
     "Databases/Index.md",
-    "Programming/Index.md",
     "Systems Analysis and Design/Index.md",
-    "Brain.canvas",
     "Systems Analysis and Design",
     "Databases",
     "Cloud Development",
