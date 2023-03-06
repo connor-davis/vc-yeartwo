@@ -1,0 +1,39 @@
+﻿@model CRUD.Models.UpdateEmployeeViewModel
+@{
+}
+
+<h1>View/Edit Employee</h1>
+<form method="post" action="/Employees/Edit">
+    <div class="mb-3">
+        <label for="Id" class="form-label">Id</label>
+        <input readonly type="text" class="form-control" id="Id" aria-describedby="employeeId" asp-for="Id" required>
+        <div id="employeeId" class="form-text">This is the employees id.</div>
+    </div>
+    <div class="mb-3">
+        <label for="Name" class="form-label">Name</label>
+        <input type="text" class="form-control" id="Name" aria-describedby="employeeNameHelp" asp-for="Name" required>
+        <div id="employeeNameHelp" class="form-text">What is the name of the employee?</div>
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="text" class="form-control" id="Email" aria-describedby="employeeEmailHelp" asp-for="Email" required>
+        <div id="employeeEmailHelp" class="form-text">What is the employees email address?</div>
+    </div>
+    <div class="mb-3">
+        <label for="Salary" class="form-label">Salary</label>
+        <input type="number" class="form-control" id="Salary" aria-describedby="employeeSalaryHelp" asp-for="Salary" required>
+        <div id="employeeSalaryHelp" class="form-text">What is the employees salary in South African Rand?</div>
+    </div>
+    <div class="mb-3">
+        <label for="Department" class="form-label">Department</label>
+        <input type="text" class="form-control" id="Department" aria-describedby="employeeDepartmentHelp" asp-for="Department" required>
+        <div id="employeeDepartmentHelp" class="form-text">What is the employees department?</div>
+    </div>
+    <div class="mb-3">
+        <label for="DateOfBirth" class="form-label">Date Of Birth</label>
+        <input type="date" class="form-control" id="DateOfBirth" aria-describedby="employeeDateOfBirthHelp" asp-for="DateOfBirth" required>
+        <div id="employeeDateOfBirthHelp" class="form-text">What is the employees date of birth?</div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-danger" asp-action="Delete" asp-controller="Employees">Delete</button>
+</form>

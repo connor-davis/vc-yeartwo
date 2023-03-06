@@ -1,0 +1,40 @@
+﻿@model List<CRUD.Models.Domain.Employee>
+@{
+	ViewData["Title"] = "View Employees";
+}
+
+<h1>Employees</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Salary</th>
+			<th>Department</th>
+			<th>Date Of Birth</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var employee in Model)
+		{
+			<tr>
+				<td>@employee.Id</td>
+				<td>@employee.Name</td>
+				<td>@employee.Email</td>
+				<td>@employee.Salary</td>
+				<td>@employee.Department</td>
+				<td>@employee.DateOfBirth.ToString("dd/MM/yyyy")</td>
+				<td>
+					<a class="btn btn-dark m-0 px-2 py-1 flex-column align-items-center justify-content-center" href="Employees/View/@employee.Id">
+						<svg xmlns="http://www.w3.org/2000/svg" fill="None" viewBox="0 0 24 24" stroke-width="2" width="14" height="14" stroke="currentColor" class="m-0 p-0 text-white">
+							<path stroke-linecap="round" stroke-linejoin="round" d="M2.036 12.322a1.012 1.012 0 010-.639C3.423 7.51 7.36 4.5 12 4.5c4.638 0 8.573 3.007 9.963 7.178.07.207.07.431 0 .639C20.577 16.49 16.64 19.5 12 19.5c-4.638 0-8.573-3.007-9.963-7.178z" />
+							<path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+						</svg>
+					</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
