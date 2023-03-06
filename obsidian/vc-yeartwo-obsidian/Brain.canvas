@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"Brain","id":"8eb695c6cb52abe8","x":-100,"y":-140,"width":240,"height":60},
+		{"type":"text","text":"Cloud Development","id":"d4aeae526c33afc0","x":340,"y":-140,"width":240,"height":60},
+		{"id":"a22077059984eafd","x":-100,"y":120,"width":240,"height":60,"type":"text","text":"Programming (C#)"},
+		{"id":"6950967e128042ab","x":-102,"y":-400,"width":242,"height":60,"type":"text","text":"Databases"},
+		{"type":"text","text":"Systems Analysis and Design","id":"56ae44ab70015a80","x":-540,"y":-140,"width":240,"height":60}
+	],
+	"edges":[
+		{"id":"33b06d3bff6a1026","fromNode":"8eb695c6cb52abe8","fromSide":"right","toNode":"d4aeae526c33afc0","toSide":"left"},
+		{"id":"2162658d08260300","fromNode":"8eb695c6cb52abe8","fromSide":"bottom","toNode":"a22077059984eafd","toSide":"top"},
+		{"id":"d0278e3ee04061f4","fromNode":"8eb695c6cb52abe8","fromSide":"top","toNode":"6950967e128042ab","toSide":"bottom"},
+		{"id":"a43d119267eea8c5","fromNode":"8eb695c6cb52abe8","fromSide":"left","toNode":"56ae44ab70015a80","toSide":"right"}
+	]
+}
