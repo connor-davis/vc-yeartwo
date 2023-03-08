@@ -1,0 +1,5 @@
+What is the relationship between orders and products?
+
+The relationship between orders and products is such that each order can have many products.
+Also, each product in the system can be apart of as many orders. Because a customer can order
+many products in one order.
