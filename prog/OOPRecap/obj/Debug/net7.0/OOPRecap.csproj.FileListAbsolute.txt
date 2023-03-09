@@ -1,0 +1,15 @@
+C:\vc-yeartwo\prog\OOPRecap\bin\Debug\net7.0\OOPRecap.exe
+C:\vc-yeartwo\prog\OOPRecap\bin\Debug\net7.0\OOPRecap.deps.json
+C:\vc-yeartwo\prog\OOPRecap\bin\Debug\net7.0\OOPRecap.runtimeconfig.json
+C:\vc-yeartwo\prog\OOPRecap\bin\Debug\net7.0\OOPRecap.dll
+C:\vc-yeartwo\prog\OOPRecap\bin\Debug\net7.0\OOPRecap.pdb
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.csproj.AssemblyReference.cache
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.AssemblyInfoInputs.cache
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.AssemblyInfo.cs
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.csproj.CoreCompileInputs.cache
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.dll
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\refint\OOPRecap.dll
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.pdb
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\OOPRecap.genruntimeconfig.cache
+C:\vc-yeartwo\prog\OOPRecap\obj\Debug\net7.0\ref\OOPRecap.dll
