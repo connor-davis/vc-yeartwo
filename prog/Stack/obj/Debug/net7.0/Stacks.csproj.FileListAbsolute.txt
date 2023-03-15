@@ -1,0 +1,15 @@
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.csproj.AssemblyReference.cache
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.AssemblyInfoInputs.cache
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.AssemblyInfo.cs
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.csproj.CoreCompileInputs.cache
+C:\vc-yeartwo\prog\Stack\bin\Debug\net7.0\Stacks.exe
+C:\vc-yeartwo\prog\Stack\bin\Debug\net7.0\Stacks.deps.json
+C:\vc-yeartwo\prog\Stack\bin\Debug\net7.0\Stacks.runtimeconfig.json
+C:\vc-yeartwo\prog\Stack\bin\Debug\net7.0\Stacks.dll
+C:\vc-yeartwo\prog\Stack\bin\Debug\net7.0\Stacks.pdb
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.dll
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\refint\Stacks.dll
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.pdb
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\Stacks.genruntimeconfig.cache
+C:\vc-yeartwo\prog\Stack\obj\Debug\net7.0\ref\Stacks.dll
