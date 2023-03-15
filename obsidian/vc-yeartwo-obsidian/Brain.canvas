@@ -5,10 +5,11 @@
 		{"type":"text","text":"Programming (C#)","id":"a22077059984eafd","x":-100,"y":120,"width":240,"height":60},
 		{"type":"text","text":"Databases","id":"6950967e128042ab","x":-102,"y":-400,"width":242,"height":60},
 		{"type":"text","text":"Systems Analysis and Design","id":"56ae44ab70015a80","x":-540,"y":-140,"width":240,"height":60},
-		{"id":"b48ab75022a59948","x":-1020,"y":-310,"width":400,"height":400,"type":"file","file":"Systems Analysis and Design/Index.md"},
-		{"id":"6fff3eaa8586542b","x":-180,"y":260,"width":400,"height":400,"type":"file","file":"Programming/Index.md"},
-		{"id":"4a96b3c102f58587","x":660,"y":-310,"width":400,"height":400,"type":"file","file":"Cloud Development/Index.md"},
-		{"id":"b6e1e296cbbdac9b","x":-181,"y":-880,"width":400,"height":400,"type":"file","file":"Databases/Index.md"}
+		{"type":"file","file":"Systems Analysis and Design/Index.md","id":"b48ab75022a59948","x":-1020,"y":-310,"width":400,"height":400},
+		{"type":"file","file":"Programming/Index.md","id":"6fff3eaa8586542b","x":-180,"y":260,"width":400,"height":400},
+		{"type":"file","file":"Cloud Development/Index.md","id":"4a96b3c102f58587","x":660,"y":-310,"width":400,"height":400},
+		{"type":"file","file":"Databases/Index.md","id":"b6e1e296cbbdac9b","x":-181,"y":-880,"width":400,"height":400},
+		{"type":"text","text":"# Notes SAND\n\n### Reasons For Modeling\n- Learning from the modeling process\n- Reducing complexity by abstraction\n- Remembering all the details\n\n```plantuml\n\"Starting activity\" --> \"Review Financials\"\n\"Review Financials\" --> \"Prepare report\"\n\"Prepare report\" --> \"Ending Activity\"\n```\n\n\n\n","id":"5f1febd042dddbbc","x":140,"y":986,"width":620,"height":454,"color":"1"}
 	],
 	"edges":[
 		{"id":"33b06d3bff6a1026","fromNode":"8eb695c6cb52abe8","fromSide":"right","toNode":"d4aeae526c33afc0","toSide":"left"},
